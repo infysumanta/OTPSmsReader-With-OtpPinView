@@ -1,4 +1,7 @@
 apply plugin: 'com.android.library'
+apply plugin: 'android-maven'
+group='com.sumanta'
+version='0.1.0'
 
 android {
     compileSdkVersion 29
