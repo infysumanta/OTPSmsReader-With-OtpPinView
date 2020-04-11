@@ -1,3 +1,4 @@
 rootProject.name='OTPSmsReader'
 include ':app'
 include ':otpsmsreader'
+include ':otppinview'
