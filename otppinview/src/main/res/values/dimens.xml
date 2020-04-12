@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="otp_text_pin_view_size">50dp</dimen>
+    <dimen name="otp_text_pin_view_radius">5dp</dimen>
+    <dimen name="otp_text_pin_view_spacing">5dp</dimen>
+    <dimen name="otp_text_pin_view_width">2dp</dimen>
+    <dimen name="otp_text_pin_view_buffer_width">2dp</dimen>
+</resources>
